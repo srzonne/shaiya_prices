@@ -19,31 +19,28 @@
 
   "Aetherion - Loot Crate": 0.00,
   "Puddle Chum - Loot Crate": 0.00,
-  "Puddle Chum Lv 1 - Loot Crate": 0.00,
-  "Puddle Chum Lv 61 - Loot Crate": 0.00,
 
-  "Jingling Wish Wings Lv.1 - Loot Crate": 0.00,
-  "Jingling Wish Wings Lv.61 - Loot Crate": 0.00,
+  "Jingling Wish Wings": 0.00,
+  "Jingling Wish Wings - Loot Crate": 0.00,
 
   "Jingle Bell Coat - Loot Crate": 0.00,
   "Critical Jingle Bell Coat - Loot Crate": 0.00,
 
-  "Pumpkin Bulwark Lv.1 - Loot Crate": 0.00,
-  "Pumpkin Bulwark Lv.61 - Loot Crate": 0.00,
-  "Pumpkin Reaper - Loot Crate": 0.00,
-
-  "Rune of Transformation: Bloodfang - Loot Crate": 0.00,
   "Rune of Transformation: Bloodfang": 10.00,
+  "Rune of Transformation: V'althig": 0.00,
 
   "Operator's Exclusive": 0.065,
   "Lucky Charm": 0.065,
+  "Mini Lucky Charm": 0.00,
+  "Mega Lucky Charm": 0.00,
+
   "Large Extraction Hammer": 0.15,
   "Small Extraction Hammer": 0.10,
 
   "Eteo Cheese": 0.00,
 
   "Target Resurrection Rune": 0.00,
-  "High EXP Stone Lv 3 (1 Hr)": 0.30,
+  "Resurrection Rune": 0.00,
 
   "Perfect Linking Hammer": 2.60,
   "Perfect Extraction Hammer": 0.40,
@@ -59,15 +56,35 @@
   "Eternal Jowerly - Loot Crate": 0.00,
   "GM Recreation - Loot Crate": 0.00,
   "GM Recreation Exchange - Loot Crate": 0.00,
-  "GM Recreation Boost - Loot Crate": 0.00,
-  "GM Recreation Max - Loot Crate": 0.00,
 
-  "Regnum or item transfer - Loot Crate": 0.00,
-  "Epic Elemental Weapon Token - Loot Crate": 0.00
+  "Epic Elemental Weapon Token - Loot Crate": 0.00,
+
+  "Solar Crimson": 0.00,
+  "Dark Sapphire": 0.00,
+  "Demonic Talisman": 0.00,
+  "Elfin Fire": 0.00,
+  "Ravager Rac": 0.00,
+  "Omen Cobalt": 0.00,
+
+  "Holy Water Lv 3": 0.00,
+  "Teleport Rune": 0.00,
+  "Vigor Rune": 0.00,
+
+  "Max HP Potion": 0.00,
+  "Max MP Potion": 0.00,
+
+  "Soul Pearl Lv 1": 0.00,
+  "Soul Pearl Lv 2": 0.00,
+
+  "Gold Bar (10g)": 0.00,
+
+  "Weapon Dye": 0.00,
+
+  "Santa's Helper": 0.00,
+  "Goddess Etain": 0.00,
+  "Goddess Riel": 0.00,
+
+  "Wings of Eternal Light": 0.00,
+
+  "Corrupted Rac": 0.00
 }
-
-
-
-
-
-
