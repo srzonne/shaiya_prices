@@ -1,70 +1,71 @@
 {
-  "Strength Remedy Lv 2": 0.45,
-  "Dexterity Remedy Lv 2": 0.48,
-  "Reaction Remedy Lv 2": 0.46,
-  "Intelligence Remedy Lv 2": 0.47,
-  "Lucky Remedy Lv 2": 0.52,
+  "Strength Remedy Lv 2": 0.00,
+  "Dexterity Remedy Lv 2": 0.00,
+  "Reaction Remedy Lv 2": 0.00,
+  "Intelligence Remedy Lv 2": 0.00,
+  "Lucky Remedy Lv 2": 0.00,
 
-  "Regnum Potion": 0.03,
-  "Arcane Potion": 0.18,
-  "[SP] Etain Potion": 0.12,
-  "Etain Potion": 0.10,
+  "Regnum Potion": 0.00,
+  "Arcane Potion": 0.00,
+  "[SP] Etain Potion": 0.00,
+  "Etain Potion": 0.00,
 
-  "Large Eternal Endurance": 6.50,
-  "Large Prevent of Item Drop": 5.80,
-  "Red Phoenix Charm": 14.90,
+  "Large Eternal Endurance": 0.00,
+  "Large Prevent of Item Drop": 0.00,
+  "Red Phoenix Charm": 0.00,
 
-  "30 day Continuous Res Rune": 50.50,
-  "7 day Continuous Res Rune": 3.20,
+  "30 day Continuous Res Rune": 0.00,
+  "7 day Continuous Res Rune": 0.00,
 
-  "Aetherion - Loot Crate": 3.80,
-  "Puddle Chum - Loot Crate": 3.60,
-  "Puddle Chum Lv 1 - Loot Crate": 4.20,
-  "Puddle Chum Lv 61 - Loot Crate": 5.90,
+  "Aetherion - Loot Crate": 0.00,
+  "Puddle Chum - Loot Crate": 0.00,
+  "Puddle Chum Lv 1 - Loot Crate": 0.00,
+  "Puddle Chum Lv 61 - Loot Crate": 0.00,
 
-  "Jingling Wish Wings Lv.1 - Loot Crate": 11.50,
-  "Jingling Wish Wings Lv.61 - Loot Crate": 15.80,
+  "Jingling Wish Wings Lv.1 - Loot Crate": 0.00,
+  "Jingling Wish Wings Lv.61 - Loot Crate": 0.00,
 
-  "Jingle Bell Coat - Loot Crate": 18.00,
-  "Critical Jingle Bell Coat - Loot Crate": 24.00,
+  "Jingle Bell Coat - Loot Crate": 0.00,
+  "Critical Jingle Bell Coat - Loot Crate": 0.00,
 
-  "Pumpkin Bulwark Lv.1 - Loot Crate": 7.40,
-  "Pumpkin Bulwark Lv.61 - Loot Crate": 9.80,
-  "Pumpkin Reaper - Loot Crate": 12.30,
+  "Pumpkin Bulwark Lv.1 - Loot Crate": 0.00,
+  "Pumpkin Bulwark Lv.61 - Loot Crate": 0.00,
+  "Pumpkin Reaper - Loot Crate": 0.00,
 
-  "Rune of Transformation: Bloodfang - Loot Crate": 22.00,
-  "Rune of Transformation: Bloodfang": 35.00,
+  "Rune of Transformation: Bloodfang - Loot Crate": 0.00,
+  "Rune of Transformation: Bloodfang": 0.00,
 
-  "Operator's Exclusive": 1.40,
-  "Lucky Charm": 2.60,
-  "Large Extraction Hammer": 4.80,
-  "Small Extraction Hammer": 1.90,
+  "Operator's Exclusive": 0.00,
+  "Lucky Charm": 0.00,
+  "Large Extraction Hammer": 0.00,
+  "Small Extraction Hammer": 0.00,
 
-  "Eteo Cheese": 0.08,
+  "Eteo Cheese": 0.00,
 
-  "Target Resurrection Rune": 0.22,
-  "High EXP Stone Lv 3 (1 Hr)": 1.60,
+  "Target Resurrection Rune": 0.00,
+  "High EXP Stone Lv 3 (1 Hr)": 0.00,
 
-  "Perfect Linking Hammer": 9.80,
-  "Perfect Extraction Hammer": 7.50,
+  "Perfect Linking Hammer": 0.00,
+  "Perfect Extraction Hammer": 0.00,
 
-  "Recreation GM Token": 5.50,
-  "Recreation Boost Token": 14.00,
-  "Recreation Max Token": 16.00,
-  "Recreation Exchange Token": 13.00,
-  "Recreation HP/MP/SP Token": 15.00,
-  "Item Transfer Token": 12.00,
+  "Recreation GM Token": 0.00,
+  "Recreation Boost Token": 0.00,
+  "Recreation Max Token": 0.00,
+  "Recreation Exchange Token": 0.00,
+  "Recreation HP/MP/SP Token": 0.00,
+  "Item Transfer Token": 0.00,
 
-  "Offhand Gear - Loot Crate": 4.20,
-  "Eternal Jowerly - Loot Crate": 4.60,
-  "GM Recreation - Loot Crate": 5.00,
-  "GM Recreation Exchange - Loot Crate": 5.20,
-  "GM Recreation Boost - Loot Crate": 5.40,
-  "GM Recreation Max - Loot Crate": 5.80,
+  "Offhand Gear - Loot Crate": 0.00,
+  "Eternal Jowerly - Loot Crate": 0.00,
+  "GM Recreation - Loot Crate": 0.00,
+  "GM Recreation Exchange - Loot Crate": 0.00,
+  "GM Recreation Boost - Loot Crate": 0.00,
+  "GM Recreation Max - Loot Crate": 0.00,
 
-  "Regnum or item transfer - Loot Crate": 4.90,
-  "Epic Elemental Weapon Token - Loot Crate": 6.70
+  "Regnum or item transfer - Loot Crate": 0.00,
+  "Epic Elemental Weapon Token - Loot Crate": 0.00
 }
+
 
 
 
