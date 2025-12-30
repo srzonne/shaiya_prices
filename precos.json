@@ -1,21 +1,21 @@
 {
-  "Strength Remedy Lv 2": 0.00,
-  "Dexterity Remedy Lv 2": 0.00,
-  "Reaction Remedy Lv 2": 0.00,
-  "Intelligence Remedy Lv 2": 0.00,
-  "Lucky Remedy Lv 2": 0.00,
+  "Strength Remedy Lv 2": 0.025,
+  "Dexterity Remedy Lv 2": 0.025,
+  "Reaction Remedy Lv 2": 0.018,
+  "Intelligence Remedy Lv 2": 025,
+  "Lucky Remedy Lv 2": 0.025,
 
   "Regnum Potion": 0.00,
   "Arcane Potion": 0.00,
   "[SP] Etain Potion": 0.00,
   "Etain Potion": 0.00,
 
-  "Large Eternal Endurance": 0.00,
-  "Large Prevent of Item Drop": 0.00,
-  "Red Phoenix Charm": 0.00,
+  "Large Eternal Endurance": 0.25,
+  "Large Prevent of Item Drop": 0.25,
+  "Red Phoenix Charm": 0.35,
 
-  "30 day Continuous Res Rune": 0.00,
-  "7 day Continuous Res Rune": 0.00,
+  "30 day Continuous Res Rune": 0.35,
+  "7 day Continuous Res Rune": 0.08,
 
   "Aetherion - Loot Crate": 0.00,
   "Puddle Chum - Loot Crate": 0.00,
@@ -33,27 +33,27 @@
   "Pumpkin Reaper - Loot Crate": 0.00,
 
   "Rune of Transformation: Bloodfang - Loot Crate": 0.00,
-  "Rune of Transformation: Bloodfang": 0.00,
+  "Rune of Transformation: Bloodfang": 10.00,
 
-  "Operator's Exclusive": 0.00,
-  "Lucky Charm": 0.00,
-  "Large Extraction Hammer": 0.00,
-  "Small Extraction Hammer": 0.00,
+  "Operator's Exclusive": 0.065,
+  "Lucky Charm": 0.065,
+  "Large Extraction Hammer": 0.15,
+  "Small Extraction Hammer": 0.10,
 
   "Eteo Cheese": 0.00,
 
   "Target Resurrection Rune": 0.00,
-  "High EXP Stone Lv 3 (1 Hr)": 0.00,
+  "High EXP Stone Lv 3 (1 Hr)": 0.30,
 
-  "Perfect Linking Hammer": 0.00,
-  "Perfect Extraction Hammer": 0.00,
+  "Perfect Linking Hammer": 2.60,
+  "Perfect Extraction Hammer": 0.40,
 
-  "Recreation GM Token": 0.00,
-  "Recreation Boost Token": 0.00,
-  "Recreation Max Token": 0.00,
-  "Recreation Exchange Token": 0.00,
-  "Recreation HP/MP/SP Token": 0.00,
-  "Item Transfer Token": 0.00,
+  "Recreation GM Token": 5.30,
+  "Recreation Boost Token": 5.50,
+  "Recreation Max Token": 5.50,
+  "Recreation Exchange Token": 6.00,
+  "Recreation HP/MP/SP Token": 5.80,
+  "Item Transfer Token": 5.30,
 
   "Offhand Gear - Loot Crate": 0.00,
   "Eternal Jowerly - Loot Crate": 0.00,
@@ -65,6 +65,7 @@
   "Regnum or item transfer - Loot Crate": 0.00,
   "Epic Elemental Weapon Token - Loot Crate": 0.00
 }
+
 
 
 
